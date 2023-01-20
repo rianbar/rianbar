@@ -15,6 +15,6 @@
 <h4 align="left">Tools:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,python,django,mongo" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,django,mongo,mysql" />
   </a>
 </p>
