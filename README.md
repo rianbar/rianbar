@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Python, Javascript and PHP**.
 
-- ⚡ Fun fact **I collect miniature cars.**
+- ⚡ Fun fact **I'm a huge fan of jurassic park**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
