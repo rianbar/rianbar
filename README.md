@@ -15,6 +15,6 @@
 <h4 align="left">Tools:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,mongo,postgresql,jest" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongo,postgresql,jest" />
   </a>
 </p>
