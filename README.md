@@ -1,8 +1,8 @@
 ## Hi dear, my name is Rian and i'm a backend developer.
 
-- 🌱 I’m currently learning **Node.js**.
+- 🌱 I’m currently learning **Spring Boot**.
 
-- 💬 Ask me about **Python, Javascript and PHP**.
+- 💬 Ask me about **Java, Spring Boot and old cartoons**.
 
 - ⚡ Fun fact **I'm a huge fan of jurassic park.**
 
