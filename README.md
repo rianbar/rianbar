@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**.
 
-- 💬 Ask me about **Java, Spring Boot and old cartoons**.
+- 💬 Ask me about **Technology, old cartoons, classic films...**.
 
 - ⚡ Fun fact **I'm a huge fan of jurassic park.**
 
