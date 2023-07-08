@@ -1,6 +1,6 @@
 ## Hi dear, my name is Rian and i'm a backend developer.
 
-- 🌱 I’m currently learning **Spring Boot**.
+- 🌱 I’m currently learning **Microservices**.
 
 - 💬 Ask me about **Technology, old cartoons, classic films, musics...**.
 
