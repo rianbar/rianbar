@@ -13,6 +13,6 @@
 <h4 align="left">Tools:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,docker,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,docker,rabbitmq,postman,idea" />
   </a>
 </p>
