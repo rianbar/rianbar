@@ -1,8 +1,8 @@
 ## Hi dear, my name is Rian and i'm a backend developer.
 
-- 🌱 I’m currently learning **Microservices**.
+- 🌱 I’m currently learning **Spring Framework**.
 
-- 💬 Ask me about **Technology, old cartoons, classic films, musics...**.
+- 💬 Ask me about **Technology, music, sports, gym...**.
 
 - ⚡ Fun fact **I'm a huge fan of jurassic park.**
 
