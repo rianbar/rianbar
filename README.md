@@ -7,7 +7,10 @@
 - ⚡ Fun fact **I'm a huge fan of jurassic park.**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbar&layout=compact&theme=tokyonight" alt="rianbar" /></p>
+<div>
+  <img align="left" 6 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbar&layout=compact&theme=tokyonight" alt="rianbar" />
+  <img align="center" height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=rianbar&theme=tokyonight" alt="rianbar" />
+</div>
 
 
 <h4 align="left">Tools:</h4>
