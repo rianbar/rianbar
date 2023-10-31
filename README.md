@@ -7,7 +7,6 @@
 
 <div align="center">
   <img align="" 6 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianbar&layout=compact&theme=tokyonight" alt="rianbar" />
-  <img align="" height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=rianbar&theme=tokyonight" alt="rianbar" />
 </div>
 
 <div>
