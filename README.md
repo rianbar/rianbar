@@ -1,7 +1,7 @@
 <div align="center">
     <h2>Hello, I'm Rian and welcome to my profile.</h2>
     <h4><strong>About me:</strong>
-     I'm backend developer and i'm currently interning at compass.uol company. My usually language is</br>
+     I'm backend developer and i'm currently working at compass.uol company. My usually language is</br>
      <strong>Java</strong> with <strong>Spring boot framework</strong> but i have experience with other languages like <i>python</i> and <i>javascript</i>. I like music, sports, work out, technology and watch classic films 💡.</h4>
 </div>
 
